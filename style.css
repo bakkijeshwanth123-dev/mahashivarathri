@@ -135,7 +135,7 @@ h2 {
     position: relative;
     overflow: hidden;
     animation: slideUp 0.8s ease-out forwards;
-    opacity: 0;
+    opacity: 2;
     animation-delay: var(--delay);
 }
 
@@ -190,7 +190,7 @@ h2 {
     display: block;
     margin-bottom: 0.5rem;
     color: var(--accent-blue);
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .form-group input,
